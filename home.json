@@ -4,5 +4,16 @@
     "subtitle": "Version 2.0 of the Studio Pro theme for the Genesis Framework",
     "buttonText": "See our work",
     "backgroundVideoYouTubeID": "HgPa8TIAlCw"
+  },
+  "frontPage2": {
+    "leftIcon": "fa-pencil",
+    "leftTitle": "Customizable",
+    "leftContent": "Easy to personalize with plenty of color and layout settings in the Customizer",
+    "centerIcon": "fa-tachometer",
+    "centerTitle": "Optimized",
+    "centerContent": "Lightweight and minimal code for the fastest possible page load time performance",
+    "rightIcon": "fa-laptop",
+    "rightTitle": "Responsive",
+    "rightContent": "Looks great on devices of all shapes and sizes with mobile first CSS and design",
   }
 }
