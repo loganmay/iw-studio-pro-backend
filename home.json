@@ -15,5 +15,8 @@
     "rightIcon": "fa-laptop",
     "rightTitle": "Responsive",
     "rightContent": "Looks great on devices of all shapes and sizes with mobile first CSS and design"
+  },
+  "frontPage3": {
+    "title": "Our Latest Work."
   }
 }
