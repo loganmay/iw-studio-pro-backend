@@ -18,5 +18,34 @@
   },
   "frontPage3": {
     "title": "Our Latest Work. DUDEE"
+  },
+  "frontPage4": {
+    "title": "Happy Customers.",
+    "customers": [
+      {
+        "name": "David Shea",
+        "testimonial": "If you aren't sure, always go for Studio Pro. Not able to tell you how happy I am with Studio Pro. Studio Pro saved my business. I would be lost without Studio Pro.",
+        "imgSrc": "/uploads/2017/07/face-4-100x100.jpg",
+        "imgSrcSet": "/uploads/2017/07/face-4-100x100.jpg 100w, /uploads/2017/07/face-4-300x300.jpg 300w, /uploads/2017/07/face-4-150x150.jpg 150w, /uploads/2017/07/face-4.jpg 333w"
+      },
+      {
+        "name": "Jess Humphries",
+        "testimonial": "Studio Pro should be nominated for service of the year. Keep up the excellent work. We were treated like royalty.",
+        "imgSrc": "/uploads/2017/07/face-2-100x100.jpg",
+        "imgSrcSet": "/uploads/2017/07/face-2-100x100.jpg 100w, /uploads/2017/07/face-2.jpg 121w"
+      },
+      {
+        "name": "Todd Smith",
+        "testimonial": "I can't say enough about Studio Pro. Thanks to Studio Pro, we've just launched our 5th website! Studio Pro is worth much more than I paid.",
+        "imgSrc": "/uploads/2017/07/face-1-100x100.jpg",
+        "imgSrcSet": "/uploads/2017/07/face-1-100x100.jpg 100w, /uploads/2017/07/face-1-150x150.jpg 150w, /uploads/2017/07/face-1.jpg 200w"
+      },
+      {
+        "name": "Emma Jones",
+        "testimonial": "Needless to say we are extremely satisfied with the results. I like Studio Pro more and more each day because it makes my life a lot easier. After using Studio Pro my business skyrocketed!",
+        "imgSrc": "/uploads/2017/07/face-3-100x100.jpg",
+        "imgSrcSet": "/uploads/2017/07/face-3-100x100.jpg 100w, /uploads/2017/07/face-3.jpg 151w"
+      }
+    ]
   }
 }
