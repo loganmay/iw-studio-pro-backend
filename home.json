@@ -17,7 +17,38 @@
     "rightContent": "Looks great on devices of all shapes and sizes with mobile first CSS and design"
   },
   "frontPage3": {
-    "title": "Our Latest Work. DUDEE"
+    "title": "Our Latest Work.",
+    "portfolioItems": [
+      {
+        "href": "/portfolio/portfolio-7/",
+        "imgSrc": "/uploads/2017/04/free-apple-macbook-mockup-620x380.jpg",
+        "title": "Web Design"
+      },
+      {
+        "href": "/portfolio/portfolio-7/",
+        "imgSrc": "/uploads/2017/04/4c8ee826154745.56350688d0a0a-620x380.jpg",
+        "title": "Typography"
+      },
+      {
+        "href": "/portfolio/portfolio-7/",
+        "imgSrc": "/uploads/2017/04/k4-620x380.jpg",
+        "title": "Branding"
+      },
+      {
+        "href": "/portfolio/portfolio-7/",
+        "imgSrc": "/uploads/2017/04/calculator-dark-light-iphone-6-perspective-620x380.png",
+        "title": "UI"
+      },
+      {
+        "href": "/portfolio/portfolio-7/",
+        "imgSrc": "/uploads/2017/04/Magazine-mockup-620x380.jpgg",
+        "title": "Graphics"
+      }
+    ],
+    "button": {
+      "href": "/",
+      "text": "View Portfolio"
+    }
   },
   "frontPage4": {
     "title": "Happy Customers DUDE",
