@@ -12,7 +12,7 @@
     "centerIcon": "fa-tachometer",
     "centerTitle": "Optimized DUDE",
     "centerContent": "Lightweight and minimal code for the fastest possible page load time performance",
-    "rightIcon": "fa-laptop",
+    "rightIcon": "fa-thermometer",
     "rightTitle": "Responsive",
     "rightContent": "Looks great on devices of all shapes and sizes with mobile first CSS and design"
   },
