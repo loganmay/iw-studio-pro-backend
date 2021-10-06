@@ -1,4 +1,18 @@
 {
-  "title": "Studio Pro", 
-  "siteDescription": "Another instant website"
+  "title": "Studio Pro",
+  "siteDescription": "Another instant website",
+  "menuItems": [
+    {
+      "href": "/portfolio",
+      "label": "Portfolio"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ]
 }
